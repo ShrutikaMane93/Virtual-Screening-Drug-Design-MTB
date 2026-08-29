@@ -39,11 +39,36 @@ The project involves molecular docking-based evaluation of potential therapeutic
 7. Evaluation of protein–ligand interactions.
 8. Identification of promising candidate compounds.
 
-## Project Status:
+## Methodology:
 
-Ongoing
+1. Ligand Selection
+   Selection of potential therapeutic compounds for virtual screening and drug repurposing.
+   
+3. Ligand Retrieval
+   Retrieval of 3D ligand structures from PubChem.
+
+4. Structure Preparation 
+   Conversion and preparation of ligand structures using Open Babel.
+
+5. Ligand Optimization 
+   Addition of hydrogen atoms and geometry optimization using Avogadro.
+
+6. Molecular Docking  
+   Docking of selected ligands against the target protein **PimB′** using SwissDock.
+
+7. Binding Analysis  
+   Evaluation of docking scores and predicted binding affinities.
+
+8. Best Pose Selection  
+   Selection of favourable protein–ligand conformations based on docking results.
+
+9. Complex Analysis 
+   Visualization and analysis of protein–ligand interactions.
+
+10. Candidate Identification  
+   Identification of promising compounds for further investigation in anti-tubercular drug discovery.
 
 ## Institution:
 
 MIT ADT University
-School of Bioengineering Sciences
+School of Bioengineering Sciences(SBSR)
