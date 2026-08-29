@@ -68,7 +68,47 @@ The project involves molecular docking-based evaluation of potential therapeutic
 10. Candidate Identification  
    Identification of promising compounds for further investigation in anti-tubercular drug discovery.
 
-## Institution:
+## Results:
 
+Molecular docking analysis was performed for 16 selected ligands against the target protein "PimB′" from "Mycobacterium smegmatis". The docking results were evaluated based on the obtained docking scores and protein–ligand interactions.
+
+Based on the docking analysis, *"four promising ligands were selected for further investigation":
+
+- Ligand_4
+- Ligand_6
+- Ligand_14
+- Ligand_16
+
+These selected compounds demonstrated favourable docking results and were considered potential candidates for further structural and computational analysis.
+
+The selected ligand–protein complexes were further considered for visualization and interaction analysis to understand their potential binding modes.
+
+## Future Work:
+
+The following steps are proposed for further validation and characterization of the selected compounds:
+
+1. Molecular Dynamics (MD) Simulations 
+   Evaluate the stability of the selected ligand–protein complexes through Molecular Dynamics simulations.
+
+2. Binding Free-Energy Analysis  
+   Estimate binding free energies using "MM-GBSA" and "MM-PBSA" calculations.
+
+3. In Vitro Experimental Validation  
+   Experimentally validate the selected compounds for their potential anti-tubercular activity.
+
+4. Protein Expression and Purification  
+   Perform laboratory-based protein expression and purification for experimental assays.
+
+5. Efficacy and Toxicity Evaluation 
+   Assess the efficacy, toxicity, and pharmacological properties of promising compounds.
+
+6. Lead Optimization  
+   Perform structural modification and optimization of promising lead compounds, if required.
+
+7. Preclinical Development
+   Further evaluate validated candidates toward preclinical development and subsequent stages of drug discovery.
+
+   
+## Institution:
 MIT ADT University
 School of Bioengineering Sciences(SBSR)
